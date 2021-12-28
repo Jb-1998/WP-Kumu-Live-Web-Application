@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Kumu Web Livestream Application
+
+This project is intended only for Kumu Web developer assessment. The project is created using the latest React Library version 17.0.2 and Material UI for react components interface. If you'd like to know more about Material UI, please refer to this documentation [Material UI Library](https://mui.com/getting-started/installation/).
+
+# Getting Started with the Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
